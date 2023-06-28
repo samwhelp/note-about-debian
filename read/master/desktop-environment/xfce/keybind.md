@@ -19,6 +19,6 @@ grand_parent: 桌面環境
 
 ## Xfce 探索筆記
 
-| 我的 Xfce 設定 ｜
+| 我的 Xfce 設定 |
 | --- |
 | [按鍵綁定](https://samwhelp.github.io/note-about-xfce/read/config/keybind.html) |
