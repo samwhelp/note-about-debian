@@ -11,8 +11,8 @@ has_children: true
 
 * [Debian](https://www.debian.org/)
 * Debian / [Live install images](https://www.debian.org/CD/live/)
-* Debian / [Manpages](https://manpages.debian.org/)
 * Debian / [Packages](https://packages.debian.org/zh-tw/)
+* Debian / [Manpages](https://manpages.debian.org/)
 * [The Debian Administrator's Handbook](https://debian-handbook.info/) ([英文版](https://debian-handbook.info/browse/stable/)) ([中文版](https://debian-handbook.info/browse/zh-TW/stable/index.html))
 
 
