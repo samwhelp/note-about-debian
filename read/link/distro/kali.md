@@ -2,7 +2,8 @@
 title: Kali Linux
 nav_order: 9040
 has_children: false
-parent: 連結
+parent: Distro
+grand_parent: 連結
 ---
 
 
