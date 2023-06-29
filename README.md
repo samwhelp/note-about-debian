@@ -39,18 +39,26 @@
 | 桌面環境 |
 | --- |
 | [Xfce](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce.html) |
+| Mate |
+| Cinnamon |
+| Kde Plasma |
+| Gnome Shell |
+| Gnome Flashback |
 
 
 ## 視窗管理器
 
 | 視窗管理器 |
 | --- |
+| Openbox |
+| Compiz |
 
 
 ## Wayland
 
 | Wayland |
 | --- |
+| Sway |
 
 
 ## 相關筆記
