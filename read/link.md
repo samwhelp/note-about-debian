@@ -10,6 +10,7 @@ has_children: true
 ## Debian
 
 * [Debian](https://www.debian.org/)
+* Debian / [Live install images](https://www.debian.org/CD/live/)
 * [The Debian Administrator's Handbook](https://debian-handbook.info/) ([英文版](https://debian-handbook.info/browse/stable/)) ([中文版](https://debian-handbook.info/browse/zh-TW/stable/index.html))
 
 
