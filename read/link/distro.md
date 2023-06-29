@@ -1,7 +1,7 @@
 ---
 title: Distro
 nav_order: 9020
-has_children: false
+has_children: true
 parent: 連結
 ---
 

@@ -7,6 +7,11 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
+## 前提
+
+> 目前此筆記，是基於「[Debian 12 Bookworm](https://samwhelp.github.io/note-about-debian/read/link/release/debian-12-bookworm.html)」撰寫的。
+
+
 ## 主題
 
 * [ISO](#iso)

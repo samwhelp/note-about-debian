@@ -1,7 +1,7 @@
 ---
 title: Release
 nav_order: 9010
-has_children: false
+has_children: true
 parent: 連結
 ---
 
