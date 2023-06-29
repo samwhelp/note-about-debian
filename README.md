@@ -17,7 +17,7 @@
 * [ISO](#iso)
 * [桌面環境](#桌面環境)
 * [視窗管理器](#視窗管理器)
-* [Wayland](#Wayland)
+* [Wayland](#wayland)
 * [相關筆記](#相關筆記)
 
 
