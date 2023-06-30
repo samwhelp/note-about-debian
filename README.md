@@ -68,10 +68,13 @@
 
 ## 相關筆記
 
-* [ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [System Modeling](https://samwhelp.github.io/system-modeling/)
+* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
+* [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
+* [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
 
 
-## samwhelp
+
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
