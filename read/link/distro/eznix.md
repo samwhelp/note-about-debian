@@ -24,3 +24,8 @@ grand_parent: 連結
 
 * [https://osdn.net/projects/ezarch/releases/](https://osdn.net/projects/ezarch/releases/)
 * [https://sourceforge.net/projects/ezarch/files/](https://sourceforge.net/projects/ezarch/files/)
+
+
+## 相關筆記
+
+* [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
