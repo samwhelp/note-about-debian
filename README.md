@@ -72,7 +72,7 @@
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
 * [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
-
+* [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 
 
 ## Samwhelp
