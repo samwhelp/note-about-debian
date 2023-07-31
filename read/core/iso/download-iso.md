@@ -88,6 +88,12 @@ sha256sum -c SHA256SUMS
 會看到類似如下的內容
 
 ```
-
-
+debian-live-12.1.0-amd64-cinnamon.iso: OK
+debian-live-12.1.0-amd64-gnome.iso: OK
+debian-live-12.1.0-amd64-kde.iso: OK
+debian-live-12.1.0-amd64-lxde.iso: OK
+debian-live-12.1.0-amd64-lxqt.iso: OK
+debian-live-12.1.0-amd64-mate.iso: OK
+debian-live-12.1.0-amd64-standard.iso: OK
+debian-live-12.1.0-amd64-xfce.iso: OK
 ```
