@@ -70,3 +70,24 @@ wget -c -i iso-download.txt
 
 
 ## 驗證
+
+
+
+### sha256sum
+
+* [man sha256sum](https://manpages.debian.org/bookworm/coreutils/sha256sum.1.en.html)
+
+執行
+
+``` sh
+wget -c https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/SHA256SUMS
+
+sha256sum -c SHA256SUMS
+```
+
+會看到類似如下的內容
+
+```
+
+
+```
