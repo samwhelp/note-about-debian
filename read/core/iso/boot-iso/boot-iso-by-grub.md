@@ -45,7 +45,7 @@ sudo curl -fLo /opt/iso/debian/12/debian-live-12.0.0-amd64-xfce.iso --create-dir
 
 ``` sh
 menuentry "Debian 12 ISO / Xfce" --class Debian {
-	set iso_file="/opt/iso/debian/12/debian-live-12.0.0-amd64-xfce.iso"
+	set iso_file="/opt/iso/debian/12/debian-live-12.1.0-amd64-xfce.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
@@ -53,8 +53,8 @@ menuentry "Debian 12 ISO / Xfce" --class Debian {
 	set boot_option=""
 	#set boot_option="components splash quiet"
 	#set boot_option="components locales=zh_TW.UTF-8 quiet splash"
-	linux (loop)/live/vmlinuz-6.1.0-9-amd64 boot=live buuid=$iso_partition_uuid findiso=$iso_file $boot_option
-	initrd (loop)/live/initrd.img-6.1.0-9-amd64
+	linux (loop)/live/vmlinuz boot=live buuid=$iso_partition_uuid findiso=$iso_file $boot_option
+	initrd (loop)/live/initrd.img
 }
 
 ```
