@@ -12,6 +12,7 @@ parent: 桌面環境
 ## 主題
 
 * [按鍵綁定](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce/keybind.html)
+* [佈景主題](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce/theme.html)
 * [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
 
