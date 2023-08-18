@@ -22,7 +22,11 @@ parent: 連結
 
 | en_us | zh_tw |
 | --- | --- |
-| [testing](https://manpages.debian.org/contents-testing.html) |  |
+| [Debian testing](https://manpages.debian.org/contents-bookworm.html) | [中文](https://manpages.debian.org/bookworm/manpages-zh/index.html) |
+| [Debian bookworm-backports](https://manpages.debian.org/contents-testing.html) | [中文](https://manpages.debian.org/ bookworm-backports/manpages-zh/index.html) |
+| [Debian testing](https://manpages.debian.org/contents-testing.html) | [中文](https://manpages.debian.org/testing/manpages-zh/index.html) |
+| [Debian unstable](https://manpages.debian.org/contents-unstable.html) | [中文](https://manpages.debian.org/unstable/manpages-zh/index.html) |
+| [Debian experimental](https://manpages.debian.org/contents-experimental.html) | [中文](https://manpages.debian.org/experimental/manpages-zh/index.html) |
 
 
 ## Manpage / Section Introduction
