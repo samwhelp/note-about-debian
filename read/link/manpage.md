@@ -20,10 +20,13 @@ parent: 連結
 
 ## Debian / Manpage / Index
 
+> stable -> bookworm
+
 | en_us | zh_tw |
 | --- | --- |
 | [Debian bookworm](https://manpages.debian.org/contents-bookworm.html) | [中文](https://manpages.debian.org/bookworm/manpages-zh/index.html) |
 | [Debian bookworm-backports](https://manpages.debian.org/contents-bookworm-backports.html) | [中文](https://manpages.debian.org/bookworm-backports/manpages-zh/index.html) |
+| [Debian stable](https://manpages.debian.org/contents-stable.html) | [中文](https://manpages.debian.org/stable/manpages-zh/index.html)
 | [Debian testing](https://manpages.debian.org/contents-testing.html) | [中文](https://manpages.debian.org/testing/manpages-zh/index.html) |
 | [Debian unstable](https://manpages.debian.org/contents-unstable.html) | [中文](https://manpages.debian.org/unstable/manpages-zh/index.html) |
 | [Debian experimental](https://manpages.debian.org/contents-experimental.html) | [中文](https://manpages.debian.org/experimental/manpages-zh/index.html) |
@@ -33,11 +36,12 @@ parent: 連結
 
 | en_us | zh_tw |
 | --- | --- |
-| [man 1 intro](https://manpages.debian.org/testing/manpages/intro.1.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.1.zh_TW.html) |
-| [man 2 intro](https://manpages.debian.org/testing/manpages/intro.2.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.2.zh_TW.html) |
-| [man 3 intro](https://manpages.debian.org/testing/manpages/intro.3.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.3.zh_TW.html) |
-| [man 4 intro](https://manpages.debian.org/testing/manpages/intro.4.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.4.zh_TW.html) |
-| [man 5 intro](https://manpages.debian.org/testing/manpages/intro.5.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.5.zh_TW.html) |
-| [man 6 intro](https://manpages.debian.org/testing/manpages/intro.6.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.6.zh_TW.html) |
-| [man 7 intro](https://manpages.debian.org/testing/manpages/intro.7.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.7.zh_TW.html) |
-| [man 8 intro](https://manpages.debian.org/testing/manpages/intro.8.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.8.zh_TW.html) |
+| [man 1 intro](https://manpages.debian.org/stable/manpages/intro.1.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.1.zh_TW.html) |
+| [man 2 intro](https://manpages.debian.org/stable/manpages/intro.2.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.2.zh_TW.html) |
+| [man 3 intro](https://manpages.debian.org/stable/manpages/intro.3.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.3.zh_TW.html) |
+| [man 4 intro](https://manpages.debian.org/stable/manpages/intro.4.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.4.zh_TW.html) |
+| [man 5 intro](https://manpages.debian.org/stable/manpages/intro.5.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.5.zh_TW.html) |
+| [man 6 intro](https://manpages.debian.org/stable/manpages/intro.6.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.6.zh_TW.html) |
+| [man 7 intro](https://manpages.debian.org/stable/manpages/intro.7.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.7.zh_TW.html) |
+| [man 8 intro](https://manpages.debian.org/stable/manpages/intro.8.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.8.zh_TW.html) |
+
