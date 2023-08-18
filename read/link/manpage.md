@@ -22,7 +22,7 @@ parent: 連結
 
 > stable -> bookworm
 
-| en_us | zh_tw |
+| 英文 | 中文 |
 | --- | --- |
 | [Debian bookworm](https://manpages.debian.org/contents-bookworm.html) | [中文](https://manpages.debian.org/bookworm/manpages-zh/index.html) |
 | [Debian bookworm-backports](https://manpages.debian.org/contents-bookworm-backports.html) | [中文](https://manpages.debian.org/bookworm-backports/manpages-zh/index.html) |
@@ -34,7 +34,7 @@ parent: 連結
 
 ## Manpage / Section Introduction
 
-| en_us | zh_tw |
+| 英文 | 中文 |
 | --- | --- |
 | [man 1 intro](https://manpages.debian.org/stable/manpages/intro.1.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.1.zh_TW.html) |
 | [man 2 intro](https://manpages.debian.org/stable/manpages/intro.2.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.2.zh_TW.html) |
@@ -45,3 +45,9 @@ parent: 連結
 | [man 7 intro](https://manpages.debian.org/stable/manpages/intro.7.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.7.zh_TW.html) |
 | [man 8 intro](https://manpages.debian.org/stable/manpages/intro.8.en.html) | [中文](https://manpages.debian.org/stable/manpages-zh/intro.8.zh_TW.html) |
 
+
+## Manpage / Man
+
+| 英文 | 中文 |
+| --- | --- |
+| [man 1 man](https://manpages.debian.org/bookworm/man-db/man.1.en.html) | [中文](https://manpages.debian.org/bookworm/man-db/man.1.zh_CN.html) |
