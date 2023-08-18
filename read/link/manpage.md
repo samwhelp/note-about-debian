@@ -41,4 +41,3 @@ parent: 連結
 | [man 6 intro](https://manpages.debian.org/testing/manpages/intro.6.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.6.zh_TW.html) |
 | [man 7 intro](https://manpages.debian.org/testing/manpages/intro.7.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.7.zh_TW.html) |
 | [man 8 intro](https://manpages.debian.org/testing/manpages/intro.8.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.8.zh_TW.html) |
-| [man 9 intro](https://manpages.debian.org/testing/manpages/intro.9.en.html) | [中文](https://manpages.debian.org/testing/manpages-zh/intro.9.zh_TW.html) |
