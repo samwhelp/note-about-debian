@@ -1,7 +1,7 @@
 ---
 title: Manpage
 nav_order: 9030
-has_children: true
+has_children: false
 parent: 連結
 ---
 
