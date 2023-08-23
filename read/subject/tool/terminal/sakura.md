@@ -45,4 +45,4 @@ sudo apt-get install sakura
 
 | Config File Path |
 | --- |
-| [~/.config/sakura/sakura.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/konsole/asset/overlay/etc/skel/.config/sakura/sakura.conf) |
+| [~/.config/sakura/sakura.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/sakura/asset/overlay/etc/skel/.config/sakura/sakura.conf) |
