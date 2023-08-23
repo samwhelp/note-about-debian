@@ -1,0 +1,52 @@
+---
+title: Dolphin
+nav_order: 3011
+has_children: false
+parent: File Manager
+grand_parent: 工具
+---
+
+
+# Dolphin
+
+
+## Subject
+
+* [Debian Package Search](#debian-package-search)
+* [Debian Package](#debian-package)
+* [Config File Path](#config-file-path)
+
+
+## Debian Package Search
+
+* Debian Package Search: [dolphin](https://packages.debian.org/search?searchon=names&keywords=dolphin)
+
+
+## Debian Package
+
+| Debian Package |
+| --- |
+| [dolphin](https://packages.debian.org/stable/dolphin) |
+
+``` sh
+sudo apt-get install dolphin
+```
+
+
+## Config File Path
+
+
+### Normal
+
+| Config File Path |
+| --- |
+| [~/.config/dolphinrc](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/dolphin/asset/overlay/etc/skel/.config/dolphinrc) |
+| [~/.local/share/dolphin/dolphinstaterc](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/dolphin/asset/overlay/etc/skel/.local/share/dolphin/dolphinstaterc) |
+| [~/.local/share/dolphin/view_properties/global/.directory](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/dolphin/asset/overlay/etc/skel/.local/share/dolphin/view_properties/global/.directory) |
+
+
+### Tool Bar
+
+| Config File Path |
+| --- |
+| [~/.local/share/kxmlgui5/dolphin/dolphinui.rc](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/dolphin/asset/overlay/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc) |
