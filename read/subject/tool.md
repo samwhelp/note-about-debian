@@ -13,7 +13,15 @@ has_children: true
 * Config / [Tool](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool)
 
 
-## Tool
+## Subject
+
+* [File Manager](#file-manager)
+* [Text Editor](#text-editor)
+* [Web Browser](#web-browser)
+* [Terminal](#terminal)
+* [Image Viewer](#image-viewer)
+* [Media Player](#media-player)
+
 
 ## File Manager
 
@@ -22,9 +30,21 @@ has_children: true
 | [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) |
 
 
+## Text Editor
+
+
+## Web Browser
+
+
 ## Terminal
 
 | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | --- |
 | [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) |
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) |
+
+
+## Image Viewer
+
+
+## Media Player
