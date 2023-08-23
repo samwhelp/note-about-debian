@@ -8,3 +8,6 @@ parent: 工具
 
 # File Manager
 
+| File Manager |
+| --- |
+| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) |
