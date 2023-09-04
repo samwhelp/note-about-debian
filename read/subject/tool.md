@@ -25,9 +25,9 @@ has_children: true
 
 ## File Manager
 
-| [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) |
-| --- |
-| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) |
+| [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) | 微調腳本 |
+| --- | --- |
+| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) |
 
 
 ## Text Editor
@@ -38,13 +38,17 @@ has_children: true
 
 ## Terminal
 
-| [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
-| --- |
-| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) |
-| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) |
+| [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) | 微調腳本 |
+| --- | --- |
+| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
+| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 
 
 ## Image Viewer
+
+| [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) | 微調腳本 |
+| --- | --- |
+| [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) |
 
 
 ## Media Player

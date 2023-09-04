@@ -8,7 +8,7 @@ parent: 工具
 
 # Terminal
 
-| Terminal |
-| --- |
-| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) |
-| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) |
+| Terminal | 微調腳本 |
+| --- | --- |
+| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
+| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/konsole) |
