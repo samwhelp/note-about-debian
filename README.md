@@ -18,6 +18,7 @@
 * [桌面環境](#桌面環境)
 * [視窗管理器](#視窗管理器)
 * [Wayland](#wayland)
+* [工具](#工具)
 * [相關筆記](#相關筆記)
 
 
@@ -41,29 +42,39 @@
 
 ## 桌面環境
 
-| 桌面環境 |
-| --- |
+| 桌面環境 | 微調腳本 |
+| --- | --- |
 | [Xfce](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce.html) |
-| Mate |
-| Cinnamon |
-| Kde Plasma |
-| Gnome Shell |
-| Gnome Flashback |
+| Mate | 微調腳本 |
+| Cinnamon | 微調腳本 |
+| Kde Plasma | 微調腳本 |
+| Gnome Shell | 微調腳本 |
+| Gnome Flashback | 微調腳本 |
 
 
 ## 視窗管理器
 
 | 視窗管理器 |
-| --- |
-| Openbox |
-| Compiz |
+| --- | --- |
+| Openbox | 微調腳本 |
+| Compiz | 微調腳本 |
 
 
 ## Wayland
 
 | Wayland |
-| --- |
-| Sway |
+| --- | --- |
+| Sway | 微調腳本 |
+
+
+## 工具
+
+| 工具 | 微調腳本 | 分類 |
+| --- | --- | --- |
+| [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) |
+| [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
+| [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/konsole) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
+| [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) |
 
 
 ## 相關筆記
