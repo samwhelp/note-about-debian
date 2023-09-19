@@ -57,3 +57,8 @@ sudo apt-get install kate
 | Config File Path |
 | --- |
 | [~/.local/share/kxmlgui5/kate/kateui.rc](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/kate/asset/overlay/etc/skel/.local/share/kxmlgui5/kate/kateui.rc) |
+
+
+## Link
+
+* KDE / Documentation / Applications / [Kate](https://develop.kde.org/docs/apps/kate/) / [Kate Plugin Tutorial](https://develop.kde.org/docs/apps/kate/plugin/)
