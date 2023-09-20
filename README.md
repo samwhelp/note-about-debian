@@ -69,7 +69,7 @@
 
 ## 工具
 
-| 工具 | 微調腳本 | 分類 |
+| [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool) | 分類 |
 | --- | --- | --- |
 | [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) |
 | [kate](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kate) | [Text Editor](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor.html) |
