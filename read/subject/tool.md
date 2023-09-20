@@ -21,6 +21,7 @@ has_children: true
 * [Terminal](#terminal)
 * [Image Viewer](#image-viewer)
 * [Media Player](#media-player)
+* [Launcher](#launcher)
 
 
 ## File Manager
@@ -57,3 +58,10 @@ has_children: true
 
 
 ## Media Player
+
+
+## Launcher
+
+| [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) | 微調腳本 |
+| --- | --- |
+| [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) |

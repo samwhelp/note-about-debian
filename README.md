@@ -77,6 +77,7 @@
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/konsole) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) |
+| [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) | [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) |
 
 
 ## 相關筆記
