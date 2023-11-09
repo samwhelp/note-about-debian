@@ -19,13 +19,13 @@ grand_parent: ISO
 
 先參考「[Download ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/download-iso.html)」這篇提到的下載方式，下載「Debian 官方提供最新的ISO檔案」。
 
-將「ISO檔案」放到「/opt/iso/debian/12/debian-live-12.0.0-amd64-xfce.iso」這個路徑。
+將「ISO檔案」放到「/opt/iso/debian/12/debian-live-12.2.0-amd64-xfce.iso」這個路徑。
 
 舉例執行下面指令
 
 ``` sh
-sudo curl -fLo /opt/iso/debian/12/debian-live-12.0.0-amd64-xfce.iso --create-dirs \
-	https://cdimage.debian.org/debian-cd/12.0.0-live/amd64/iso-hybrid/debian-live-12.0.0-amd64-xfce.iso
+sudo curl -fLo /opt/iso/debian/12/debian-live-12.2.0-amd64-xfce.iso --create-dirs \
+	https://cdimage.debian.org/debian-cd/12.2.0-live/amd64/iso-hybrid/debian-live-12.2.0-amd64-xfce.iso
 ```
 
 
@@ -45,7 +45,7 @@ sudo curl -fLo /opt/iso/debian/12/debian-live-12.0.0-amd64-xfce.iso --create-dir
 
 ``` sh
 menuentry "Debian 12 ISO / Xfce" --class Debian {
-	set iso_file="/opt/iso/debian/12/debian-live-12.1.0-amd64-xfce.iso"
+	set iso_file="/opt/iso/debian/12/debian-live-12.2.0-amd64-xfce.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"

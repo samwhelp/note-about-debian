@@ -24,10 +24,10 @@ grand_parent: ISO
 舉例執行下面指令
 
 ``` sh
-wget -c https://cdimage.debian.org/debian-cd/12.0.0-live/amd64/iso-hybrid/debian-live-12.0.0-amd64-xfce.iso
+wget -c https://cdimage.debian.org/debian-cd/12.2.0-live/amd64/iso-hybrid/debian-live-12.2.0-amd64-xfce.iso
 ```
 
-就會下載一個檔案「debian-live-12.0.0-amd64-xfce.iso」。
+就會下載一個檔案「debian-live-12.2.0-amd64-xfce.iso」。
 
 
 ### 尋找 Device 代號
@@ -47,13 +47,13 @@ lsblk
 接著執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./debian-live-12.0.0-amd64-xfce.iso of=/dev/sdc bs=4M status=progress && sync
+sudo dd if=./debian-live-12.2.0-amd64-xfce.iso of=/dev/sdc bs=4M status=progress && sync
 ```
 
 或是執行下面指令，就會寫入「USB隨身碟」。
 
 ``` sh
-sudo dd if=./debian-live-12.0.0-amd64-xfce.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
+sudo dd if=./debian-live-12.2.0-amd64-xfce.iso of=/dev/sdc bs=4M status=progress conv=fsync oflag=direct
 ```
 
 接著重新開機，在「BIOS」選擇使用「該USB隨身碟」開機。
