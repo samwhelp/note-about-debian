@@ -12,6 +12,7 @@ parent: ISO
 ## Debian 12
 
 * Debian / News / [Debian 12 "bookworm" released](https://www.debian.org/News/2023/20230610)
+* Debian / News / [Updated Debian 12: 12.4 released](https://www.debian.org/News/2023/20231210)
 * Debian 12 / [Release Notes](https://www.debian.org/releases/bookworm/releasenotes)
 * Debian / [Live install images](https://www.debian.org/CD/live/)
 * [https://cdimage.debian.org/debian-cd/](https://cdimage.debian.org/debian-cd/)
