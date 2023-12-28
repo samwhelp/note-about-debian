@@ -1,6 +1,6 @@
 ---
 title: Krunner
-nav_order: 3071
+nav_order: 3072
 has_children: false
 parent: Launcher
 grand_parent: 工具
