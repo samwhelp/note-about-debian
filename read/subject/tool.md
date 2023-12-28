@@ -15,13 +15,24 @@ has_children: true
 
 ## Subject
 
+* [Launcher](#launcher)
 * [File Manager](#file-manager)
 * [Text Editor](#text-editor)
 * [Web Browser](#web-browser)
 * [Terminal](#terminal)
 * [Image Viewer](#image-viewer)
 * [Media Player](#media-player)
-* [Launcher](#launcher)
+
+
+
+
+## Launcher
+
+| [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) | 微調腳本 |
+| --- | --- |
+| [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) |
+
+
 
 
 ## File Manager
@@ -29,6 +40,8 @@ has_children: true
 | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) | 微調腳本 |
 | --- | --- |
 | [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) |
+
+
 
 
 ## Text Editor
@@ -39,7 +52,10 @@ has_children: true
 | [kwrite](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kwrite) |
 
 
+
+
 ## Web Browser
+
 
 
 ## Terminal
@@ -51,6 +67,8 @@ has_children: true
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 
 
+
+
 ## Image Viewer
 
 | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) | 微調腳本 |
@@ -58,11 +76,7 @@ has_children: true
 | [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) |
 
 
+
+
 ## Media Player
 
-
-## Launcher
-
-| [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) | 微調腳本 |
-| --- | --- |
-| [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) |
