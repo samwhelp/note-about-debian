@@ -43,9 +43,6 @@ sudo apt-get install rofi
 
 ## Config File Path
 
-
-### Normal
-
 | Config File Path |
 | --- |
 | [~/.config/rofi/config.rasi](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/rofi/asset/overlay/etc/skel/.config/rofi/config.rasi) |
