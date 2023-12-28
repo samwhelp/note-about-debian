@@ -22,6 +22,7 @@ has_children: true
 * [Terminal](#terminal)
 * [Image Viewer](#image-viewer)
 * [Media Player](#media-player)
+* [微調腳本](#微調腳本)
 
 
 
@@ -81,3 +82,12 @@ has_children: true
 
 ## Media Player
 
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| --- |
+| [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-common) |
+| [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-kde) |
