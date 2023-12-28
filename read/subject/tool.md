@@ -30,6 +30,7 @@ has_children: true
 
 | [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) | 微調腳本 |
 | --- | --- |
+| [rofi](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/rofi.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/rofi) |
 | [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) |
 
 
