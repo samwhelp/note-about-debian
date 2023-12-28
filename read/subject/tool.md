@@ -15,6 +15,7 @@ has_children: true
 
 ## Subject
 
+* [微調腳本](#微調腳本)
 * [Launcher](#launcher)
 * [File Manager](#file-manager)
 * [Text Editor](#text-editor)
@@ -22,7 +23,16 @@ has_children: true
 * [Terminal](#terminal)
 * [Image Viewer](#image-viewer)
 * [Media Player](#media-player)
-* [微調腳本](#微調腳本)
+
+
+
+
+## 微調腳本
+
+| 工具微調腳本 |
+| --- |
+| [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-common) |
+| [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-kde) |
 
 
 
@@ -84,10 +94,3 @@ has_children: true
 
 
 
-
-## 微調腳本
-
-| 微調腳本 |
-| --- |
-| [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-common) |
-| [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-kde) |
