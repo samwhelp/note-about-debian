@@ -94,6 +94,7 @@
 ## 相關筆記
 
 * [System Modeling](https://samwhelp.github.io/system-modeling/)
+* [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/)
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
 * [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
 * [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
