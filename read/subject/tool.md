@@ -85,6 +85,7 @@ has_children: true
 
 | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) | 微調腳本 |
 | --- | --- |
+| [viewnior](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/viewnior) |
 | [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) |
 
 
