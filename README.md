@@ -71,6 +71,7 @@
 
 | [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool) | 分類 |
 | --- | --- | --- |
+| [rofi](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/rofi.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/rofi) | [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) |
 | [krunner](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/krunner) | [Launcher](https://samwhelp.github.io/note-about-debian/read/subject/tool/launcher.html) |
 | [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) |
 | [kate](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kate) | [Text Editor](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor.html) |
