@@ -13,3 +13,4 @@ parent: 工具
 | [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/konsole) |
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) |
+| [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/qterminal) |
