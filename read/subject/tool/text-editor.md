@@ -10,5 +10,6 @@ parent: 工具
 
 | Text Editor | 微調腳本 |
 | --- | --- |
+| [mousepad](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mousepad) |
 | [kate](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kate) |
 | [kwrite](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kwrite) |

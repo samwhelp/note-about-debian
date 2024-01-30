@@ -60,6 +60,7 @@ has_children: true
 
 | [Text Editor]((https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor.html)) | 微調腳本 |
 | --- | --- |
+| [mousepad](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/mousepad.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mousepad) |
 | [kate](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kate) |
 | [kwrite](https://samwhelp.github.io/note-about-debian/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kwrite) |
 
@@ -78,7 +79,8 @@ has_children: true
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) |
 | [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/qterminal) |
-
+| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) |
+| [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) |
 
 
 
