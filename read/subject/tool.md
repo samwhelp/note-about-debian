@@ -29,7 +29,7 @@ has_children: true
 
 ## 微調腳本
 
-| 工具微調腳本 |
+| [工具微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool) |
 | --- |
 | [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-common) |
 | [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-kde) |
