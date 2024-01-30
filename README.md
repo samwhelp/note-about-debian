@@ -42,7 +42,7 @@
 
 ## 桌面環境
 
-| 桌面環境 | 微調腳本 |
+| [桌面環境](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de) |
 | --- | --- |
 | [Xfce](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de/xfce) |
 | Mate | 微調腳本 |
@@ -50,6 +50,7 @@
 | Kde Plasma | 微調腳本 |
 | Gnome Shell | 微調腳本 |
 | Gnome Flashback | 微調腳本 |
+| Budgie | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de/budgie) |
 
 
 ## 視窗管理器
