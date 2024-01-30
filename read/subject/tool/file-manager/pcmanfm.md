@@ -45,4 +45,5 @@ sudo apt-get install pcmanfm
 
 | Config File Path |
 | --- |
-| [~/.config/](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm/asset/overlay/etc/skel/.config/) |
+| [~/.config/pcmanfm/default/pcmanfm.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm/asset/overlay/etc/skel/.config/pcmanfm/default/pcmanfm.conf) |
+| [~/.config/libfm/libfm.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm/asset/overlay/etc/skel/.config/libfm/libfm.conf) |

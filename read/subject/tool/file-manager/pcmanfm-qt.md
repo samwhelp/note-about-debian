@@ -43,6 +43,11 @@ sudo apt-get install pcmanfm-qt
 
 ## Config File Path
 
-| Config File Path |
+| Config File Path (default) |
 | --- |
-| [~/.config/](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm-qt/asset/overlay/etc/skel/.config/) |
+| [~/.config/pcmanfm-qt/default/settings.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/default/settings.conf) |
+
+
+| Config File Path (lxqt) |
+| --- |
+| [~/.config/pcmanfm-qt/lxqt/settings.conf](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/pcmanfm-qt/asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |

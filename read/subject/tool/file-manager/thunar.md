@@ -43,6 +43,8 @@ sudo apt-get install thunar
 
 ## Config File Path
 
-| Config File Path |
+| Config File Path|
 | --- |
-| [~/.config/](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/thunar/asset/overlay/etc/skel/.config/) |
+| [~/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/thunar/asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml) |
+| [~/.config/Thunar/uca.xml](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/thunar/asset/overlay/etc/skel/.config/Thunar/uca.xml) |
+| [~/.config/Thunar/accels.scm](https://github.com/samwhelp/debian-adjustment/blob/main/prototype/tool/thunar/asset/overlay/etc/skel/.config/Thunar/accels.scm) |
