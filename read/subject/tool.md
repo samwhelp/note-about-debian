@@ -52,6 +52,9 @@ has_children: true
 | [File Manager](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager.html) | 微調腳本 |
 | --- | --- |
 | [dolphin](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) |
+| [pcmanfm-qt](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm-qt.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/pcmanfm-qt) |
+| [pcmanfm](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/pcmanfm.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/pcmanfm) |
+| [thunar](https://samwhelp.github.io/note-about-debian/read/subject/tool/file-manager/thunar.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/thunar) |
 
 
 
@@ -76,11 +79,13 @@ has_children: true
 | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) | 微調腳本 |
 | --- | --- |
 | [sakura](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/sakura.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
+| [xfce4-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/xfce4-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/xfce4-terminal) |
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) |
 | [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/qterminal) |
 | [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) |
 | [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) |
+| [lxterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/lxterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/lxterminal) |
 
 
 
