@@ -10,4 +10,5 @@ parent: 工具
 
 | Web Browser | 微調腳本 |
 | --- | --- |
-| [mousepad](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/falkon.html) | 微調腳本 |
+| [firefox](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/firefox.html) | 微調腳本 |
+| [falkon](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/falkon.html) | 微調腳本 |

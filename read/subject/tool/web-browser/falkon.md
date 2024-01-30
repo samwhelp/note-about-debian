@@ -14,7 +14,7 @@ grand_parent: 工具
 
 * [Debian Package Search](#debian-package-search)
 * [Debian Package](#debian-package)
-* [Config File Path](#config-file-path)
+* [Link](#link)
 
 
 ## Debian Package Search

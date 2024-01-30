@@ -74,6 +74,7 @@ has_children: true
 
 | [Web Browser](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser.html) | 微調腳本 |
 | --- | --- |
+| [firefox](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/firefox.html) | 微調腳本 |
 | [falkon](https://samwhelp.github.io/note-about-debian/read/subject/tool/web-browser/falkon.html) | 微調腳本 |
 
 
