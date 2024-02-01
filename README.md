@@ -56,9 +56,9 @@
 ## 視窗管理器
 
 | 視窗管理器 | 微調腳本 |
-| --- | --- |
+| -------- | ------- |
 | Openbox | 微調腳本 |
-| Compiz | 微調腳本 |
+| Compiz  | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/wm/compiz/part/compiz-config-main) |
 
 
 ## Wayland
