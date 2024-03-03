@@ -15,9 +15,9 @@ parent: 工具
 | [konsole](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/konsole) |
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) |
 | [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/qterminal) |
-| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) |
-| [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) |
 | [lxterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/lxterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/lxterminal) |
+| [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) |
+| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) |
 
 
 
