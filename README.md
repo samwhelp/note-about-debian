@@ -97,11 +97,12 @@
 | [yakuake](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/yakuake) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [qterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/qterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/qterminal) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [lxterminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/lxterminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/lxterminal) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
-| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [mate-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/mate-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
+| [gnome-terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal/gnome-terminal.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) | [Terminal](https://samwhelp.github.io/note-about-debian/read/subject/tool/terminal.html) |
 | [viewnior](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/viewnior) | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) |
 | [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer.html) |
 | [mpv](https://samwhelp.github.io/note-about-debian/read/subject/tool/media-player/mpv.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mpv) | [Media Player](https://samwhelp.github.io/note-about-debian/read/subject/tool/media-player.html) |
+
 
 
 
