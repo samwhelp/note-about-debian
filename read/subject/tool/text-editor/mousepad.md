@@ -15,7 +15,6 @@ grand_parent: 工具
 * [微調腳本](#微調腳本)
 * [Debian Package Search](#debian-package-search)
 * [Debian Package](#debian-package)
-* [Config File Path](#config-file-path)
 
 
 ## 微調腳本
