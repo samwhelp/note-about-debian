@@ -1,6 +1,6 @@
 ---
 title: Geany
-nav_order: 3021
+nav_order: 3022
 has_children: false
 parent: Text Editor
 grand_parent: 工具

@@ -1,6 +1,6 @@
 ---
 title: Featherpad
-nav_order: 3022
+nav_order: 3021
 has_children: false
 parent: Text Editor
 grand_parent: 工具
