@@ -15,6 +15,7 @@
 ## 主題
 
 * [ISO](#iso)
+* [Debian Adjustment](#debian-adjustment)
 * [桌面環境](#桌面環境)
 * [視窗管理器](#視窗管理器)
 * [Wayland](#wayland)
@@ -38,6 +39,19 @@
 | [Boot ISO By USB](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso/boot-iso-by-usb.html) |
 | [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
 | [Boot ISO By GRUB](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso/boot-iso-by-grub.html) |
+
+
+
+
+## Debian Adjustment
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
+| [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
+
+
 
 
 ## 桌面環境
