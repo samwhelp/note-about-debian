@@ -128,6 +128,9 @@
 * [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
 * [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
 * [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
+* [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) ([GitHub](https://github.com/samwhelp/note-about-lika/))
+
+
 
 
 ## Samwhelp
