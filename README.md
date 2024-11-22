@@ -41,6 +41,14 @@
 | [Boot ISO By GRUB](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso/boot-iso-by-grub.html) |
 
 
+### Build ISO
+
+| Build Debian ISO | GitHub |
+| ---------------- | ------ |
+| [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) | [GitHub](https://github.com/samwhelp/note-about-lika-live-build-config) |
+| [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos/) |
+
+
 
 
 ## Debian Adjustment
