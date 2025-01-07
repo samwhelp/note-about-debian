@@ -139,7 +139,7 @@
 * [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 * [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) ([GitHub](https://github.com/samwhelp/note-about-lika/))
 * [Debian / Live Build / 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/)  ([GitHub](https://github.com/samwhelp/note-about-debian-live-build/))
-* [Remix Linux Distro ISO / 探索筆記](note-about-remix-linux-distro-iso) ([GitHub](note-about-remix-linux-distro-iso))
+* [Remix Linux Distro ISO / 探索筆記](https://samwhelp.github.io/note-about-remix-linux-distro-iso) ([GitHub](https://github.com/samwhelp/note-about-remix-linux-distro-iso))
 * [Deb 探索筆記](https://samwhelp.github.io/note-about-deb/) ([GitHub](https://github.com/samwhelp/note-about-deb/))
 * [Apt 探索筆記](https://samwhelp.github.io/note-about-apt/) ([GitHub](https://github.com/samwhelp/note-about-apt/))
 * [Ubuntu Basic Skill](https://samwhelp.github.io/book-ubuntu-basic-skill/) ([GitHub](https://github.com/samwhelp/book-ubuntu-basic-skill/))
