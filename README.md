@@ -1,4 +1,5 @@
 
+
 # 首頁
 
 | Link | GitHub |
@@ -7,20 +8,27 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
+
+
 ## 前提
 
 > 目前此筆記，是基於「[Debian 12 Bookworm](https://samwhelp.github.io/note-about-debian/read/link/release/debian-12-bookworm.html)」撰寫的。
 
 
+
+
 ## 主題
 
 * [ISO](#iso)
+* [打包範例](#打包範例)
 * [Debian Adjustment](#debian-adjustment)
 * [桌面環境](#桌面環境)
 * [視窗管理器](#視窗管理器)
 * [Wayland](#wayland)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
+
+
 
 
 ## ISO
@@ -52,6 +60,16 @@
 
 
 
+## 打包範例
+
+| Link | GitHub |
+| ---- | ------ |
+| [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
+| [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
+
+
+
+
 ## Debian Adjustment
 
 | Link | GitHub |
@@ -76,6 +94,8 @@
 | Budgie | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de/budgie) |
 
 
+
+
 ## 視窗管理器
 
 | 視窗管理器 | 微調腳本 |
@@ -84,11 +104,15 @@
 | Compiz  | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/wm/compiz/part/compiz-config-main) |
 
 
+
+
 ## Wayland
 
 | Wayland | 微調腳本 |
 | --- | --- |
 | Sway | 微調腳本 |
+
+
 
 
 ## 工具
