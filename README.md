@@ -77,6 +77,9 @@
 | [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
 | [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
 | [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
+| [Debian Mate 探索筆記](https://samwhelp.github.io/note-about-debian-mate/) | [GitHub](https://github.com/samwhelp/note-about-debian-mate) |
+| [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
+| [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
 
 
 
