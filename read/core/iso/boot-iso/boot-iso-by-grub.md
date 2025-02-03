@@ -10,9 +10,13 @@ grand_parent: ISO
 # Boot ISO By GRUB
 
 
+
+
 ## 範例專案
 
 * boot-iso-by-grub / [demo-boot-debian-12-iso](https://github.com/samwhelp/debian-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-12-iso)
+
+
 
 
 ## 下載 ISO
@@ -29,6 +33,8 @@ sudo curl -fLo /opt/iso/debian/12/debian-live-12.9.0-amd64-xfce.iso --create-dir
 ```
 
 
+
+
 ## 設定範例
 
 > 接著採用下面其中一種方式來設定。
@@ -39,6 +45,8 @@ sudo curl -fLo /opt/iso/debian/12/debian-live-12.9.0-amd64-xfce.iso --create-dir
 | demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-12-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
 
 > 關於「`sudo update-grub`」指的是「`sudo grub-mkconfig -o /boot/grub/grub.cfg`」
+
+
 
 
 ## GRUB Menu Entry / Boot ISO 樣板 / Debian
@@ -58,6 +66,8 @@ menuentry "Debian 12 ISO / Xfce" --class Debian {
 }
 
 ```
+
+
 
 
 ## See Also

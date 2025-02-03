@@ -9,9 +9,14 @@ grand_parent: ISO
 
 # Boot ISO By USB
 
+
+
+
 ## Arch Wiki
 
 * [USB flash installation medium](https://wiki.archlinux.org/title/USB_flash_installation_medium)
+
+
 
 
 ## 操作步驟
@@ -30,6 +35,7 @@ wget -c https://cdimage.debian.org/debian-cd/12.9.0-live/amd64/iso-hybrid/debian
 就會下載一個檔案「debian-live-12.9.0-amd64-xfce.iso」。
 
 
+
 ### 尋找 Device 代號
 
 先執行下面指令，找到「目標USB隨身碟」的「Device代號」
@@ -41,8 +47,8 @@ lsblk
 > 假設找到的「目標USB隨身碟」是「/dev/sdc」。
 
 
-### 寫入隨身碟
 
+### 寫入隨身碟
 
 接著執行下面指令，就會寫入「USB隨身碟」。
 

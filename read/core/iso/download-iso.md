@@ -9,6 +9,8 @@ parent: ISO
 # Download ISO
 
 
+
+
 ## Debian 12
 
 * Debian / News / [Updated Debian 12: 12.9 released](https://www.debian.org/News/2025/20250111)
@@ -33,6 +35,8 @@ parent: ISO
 * [下載腳本](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-12-iso/iso-download.sh)
 
 
+
+
 ## 下載點
 
 > 可以到「Debian / [Live install images](https://www.debian.org/CD/live/)」找到下載點。
@@ -42,8 +46,8 @@ parent: ISO
 
 
 
-
 ## 下載方式
+
 
 ### iso-download.txt
 
@@ -60,6 +64,7 @@ https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-1
 https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-standard.iso
 ```
 
+
 ### iso-download.sh
 
 接著執行下面的指令，就會下載剛剛「iso-download.txt」裡面所列的檔案
@@ -73,14 +78,17 @@ wget -c -i iso-download.txt
 > 關於「-i iso-download.txt」，指的是下載「iso-download.txt」裡面所列的檔案
 
 
+
+
 ## Boot ISO
 
 > 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso.html)」方式。
 
 
 
-## 驗證
 
+
+## 驗證
 
 
 ### sha256sum
