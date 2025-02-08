@@ -13,7 +13,6 @@ grand_parent: 連結
 | -------- |
 | [Mx Linux](https://mxlinux.org/) |
 | GitHub / [mx-linux](https://github.com/mx-linux) |
-|
 
 
 
