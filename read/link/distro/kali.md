@@ -11,7 +11,7 @@ grand_parent: 連結
 
 | Kali Linux |
 | ---------- |
-| [Kali Linux](https://www.kali.org/) () |
+| [Kali Linux](https://www.kali.org/) |
 | GitLab / [kalilinux](https://gitlab.com/kalilinux/) |
 | [Get Kali](https://www.kali.org/get-kali/) |
 | [kali-live-build-config](https://gitlab.com/kalilinux/build-scripts/kali-live) |
