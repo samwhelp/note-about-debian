@@ -125,9 +125,9 @@
 ## 工具
 
 | 工具微調腳本 |
-| --- |
-| [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-common) |
-| [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/full/tool-config-kde) |
+| ----------- |
+| [tool-config-common](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/full/dark/tool-config-common) |
+| [tool-config-kde](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/full/dark/tool-config-kde) |
 
 
 | [工具](https://samwhelp.github.io/note-about-debian/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) | 分類 |
