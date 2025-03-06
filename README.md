@@ -169,6 +169,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Mx Linux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
+| [BunsenLabs Linux 探索筆記](https://samwhelp.github.io/note-about-bunsenlabs/) | [GitHub](https://github.com/samwhelp/note-about-bunsenlabs) |
 | [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
 | [Eznix OS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
