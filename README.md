@@ -83,6 +83,10 @@
 | [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
+
 
 
 ## 微調腳本
