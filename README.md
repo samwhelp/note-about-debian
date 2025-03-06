@@ -21,10 +21,11 @@
 
 * [ISO](#iso)
 * [打包範例](#打包範例)
-* [Debian Adjustment](#debian-adjustment)
-* [桌面環境](#桌面環境)
-* [視窗管理器](#視窗管理器)
-* [Wayland](#wayland)
+* [Debian Respin](#debian-respin)
+* [微調腳本](#微調腳本)
+* [字型](#字型)
+* [輸入法](#輸入法)
+* [佈景主題](#佈景主題)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
 
@@ -70,7 +71,7 @@
 
 
 
-## Debian Adjustment
+## Debian Respin
 
 | Link | GitHub |
 | ---- | ------ |
@@ -84,36 +85,39 @@
 
 
 
-## 桌面環境
+## 微調腳本
 
-| [桌面環境](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de) |
-| --- | --- |
-| [Xfce](https://samwhelp.github.io/note-about-debian/read/master/desktop-environment/xfce.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de/xfce) |
-| Mate | 微調腳本 |
-| Cinnamon | 微調腳本 |
-| Kde Plasma | 微調腳本 |
-| Gnome Shell | 微調腳本 |
-| Gnome Flashback | 微調腳本 |
-| Budgie | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/de/budgie) |
+| 微調腳本 |
+| ------- |
+| [Debian Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
 
-## 視窗管理器
+## 字型
 
-| 視窗管理器 | 微調腳本 |
-| -------- | ------- |
-| Openbox | 微調腳本 |
-| Compiz  | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/wm/compiz/part/compiz-config-main) |
-
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-debian/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/font-config/font-match-order) |
 
 
 
-## Wayland
 
-| Wayland | 微調腳本 |
-| --- | --- |
-| Sway | 微調腳本 |
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-debian/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+
+
+
+
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-debian/read/subject/grub.html) |
 
 
 
