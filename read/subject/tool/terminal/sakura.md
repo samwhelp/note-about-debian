@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [sakura](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/sakura) |
+| [sakura](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/sakura) |
 
 
 ## Debian Package Search

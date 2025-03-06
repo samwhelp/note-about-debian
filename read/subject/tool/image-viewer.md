@@ -10,5 +10,5 @@ parent: 工具
 
 | Image Viewer | 微調腳本 |
 | --- | --- |
-| [viewnior](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/viewnior) |
-| [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) |
+| [viewnior](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/viewnior.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/viewnior) |
+| [gwenview](https://samwhelp.github.io/note-about-debian/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/gwenview) |

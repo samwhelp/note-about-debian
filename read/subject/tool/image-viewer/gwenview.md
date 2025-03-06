@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [gwenview](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gwenview) |
+| [gwenview](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/gwenview) |
 
 
 ## Debian Package Search

@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [pcmanfm-qt](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/pcmanfm-qt) |
+| [pcmanfm-qt](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/pcmanfm-qt) |
 
 
 ## Debian Package Search

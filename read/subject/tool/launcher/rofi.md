@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [rofi](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/rofi) |
+| [rofi](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/rofi) |
 
 
 ## Debian Package Search

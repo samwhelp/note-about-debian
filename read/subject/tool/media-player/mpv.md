@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [mpv](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mpv) |
+| [mpv](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/mpv) |
 
 
 ## Debian Package Search

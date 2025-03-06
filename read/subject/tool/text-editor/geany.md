@@ -23,7 +23,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [geany](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany) |
+| [geany](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/geany) |
 
 
 ## Debian Package Search
@@ -46,10 +46,10 @@ sudo apt-get install geany
 
 | Config File Path |
 | ---------------- |
-| [~/.config/geany/geany.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany/asset/overlay/etc/skel/.config/geany/geany.conf) |
-| [~/.config/geany/keybindings.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany/asset/overlay/etc/skel/.config/geany/keybindings.conf) |
-| [~/.config/geany/ui_toolbar.xml](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany/asset/overlay/etc/skel/.config/geany/ui_toolbar.xml) |
-| [~/.config/geany/colorschemes/](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/geany/asset/overlay/etc/skel/.config/geany/colorschemes) |
+| [~/.config/geany/geany.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/geany.conf) |
+| [~/.config/geany/keybindings.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/keybindings.conf) |
+| [~/.config/geany/ui_toolbar.xml](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/ui_toolbar.xml) |
+| [~/.config/geany/colorschemes/](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/geany/asset/overlay/etc/skel/.config/geany/colorschemes) |
 
 
 ## Link

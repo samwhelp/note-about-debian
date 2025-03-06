@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [gnome-terminal](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/gnome-terminal) |
+| [gnome-terminal](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/gnome-terminal) |
 
 
 ## Debian Package Search

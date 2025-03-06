@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [kwrite](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/kwrite) |
+| [kwrite](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/kwrite) |
 
 
 ## Debian Package Search

@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [featherpad](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad) |
+| [featherpad](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/featherpad) |
 
 
 ## Debian Package Search
@@ -45,6 +45,6 @@ sudo apt-get install featherpad
 
 | Config File Path |
 | ---------------- |
-| [~/.config/featherpad/fp.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad/asset/overlay/etc/skel/.config/featherpad/fp.conf) |
-| [~/.config/featherpad/fp_dark_syntax_colors.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad/asset/overlay/etc/skel/.config/featherpad/fp_dark_syntax_colors.conf) |
-| [~/.config/featherpad/fp_light_syntax_colors.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/featherpad/asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |
+| [~/.config/featherpad/fp.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/featherpad/asset/overlay/etc/skel/.config/featherpad/fp.conf) |
+| [~/.config/featherpad/fp_dark_syntax_colors.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/featherpad/asset/overlay/etc/skel/.config/featherpad/fp_dark_syntax_colors.conf) |
+| [~/.config/featherpad/fp_light_syntax_colors.conf](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/featherpad/asset/overlay/etc/skel/.config/featherpad/fp_light_syntax_colors.conf) |

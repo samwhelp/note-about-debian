@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [mate-terminal](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/mate-terminal) |
+| [mate-terminal](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/mate-terminal) |
 
 
 ## Debian Package Search

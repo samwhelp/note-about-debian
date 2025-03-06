@@ -22,7 +22,7 @@ grand_parent: 工具
 
 | 微調腳本 |
 | --- |
-| [dolphin](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/tool/dolphin) |
+| [dolphin](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part/dolphin) |
 
 
 ## Debian Package Search
