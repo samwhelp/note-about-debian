@@ -162,14 +162,21 @@
 
 ## 相關筆記
 
-* [System Modeling](https://samwhelp.github.io/system-modeling/)
+| Link | GitHub |
+| ---- | ------ |
+| [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) | [GitHub](https://github.com/samwhelp/note-about-lika) |
+| [Eznix OS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+
+
+
+
 * [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/)
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/)
-* [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/)
-* [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/)
-* [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
-* [Lika OS 探索筆記](https://samwhelp.github.io/note-about-lika/) ([GitHub](https://github.com/samwhelp/note-about-lika/))
-* [Debian / Live Build / 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/)  ([GitHub](https://github.com/samwhelp/note-about-debian-live-build/))
+* [Debian / Live Build / 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/) ([GitHub](https://github.com/samwhelp/note-about-debian-live-build/))
 * [Remix Linux Distro ISO / 探索筆記](https://samwhelp.github.io/note-about-remix-linux-distro-iso) ([GitHub](https://github.com/samwhelp/note-about-remix-linux-distro-iso))
 * [Deb 探索筆記](https://samwhelp.github.io/note-about-deb/) ([GitHub](https://github.com/samwhelp/note-about-deb/))
 * [Apt 探索筆記](https://samwhelp.github.io/note-about-apt/) ([GitHub](https://github.com/samwhelp/note-about-apt/))
