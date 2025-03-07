@@ -85,7 +85,16 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
 | [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Bspwm 探索筆記](https://samwhelp.github.io/note-about-debian-bspwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-bspwm) |
+| [Debian I3wm 探索筆記](https://samwhelp.github.io/note-about-debian-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-debian-i3wm) |
+| [Debian Herbstluftwm 探索筆記](https://samwhelp.github.io/note-about-debian-herbstluftwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-herbstluftwm) |
+
 
 
 
