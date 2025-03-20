@@ -13,6 +13,7 @@ parent: ISO
 
 ## Debian 12
 
+* Debian / News / [Updated Debian 12: 12.10 released](https://www.debian.org/News/2025/20250315)
 * Debian / News / [Updated Debian 12: 12.9 released](https://www.debian.org/News/2025/20250111)
 * Debian / News / [Updated Debian 12: 12.8 released](https://www.debian.org/News/2024/20241109)
 * Debian / News / [Updated Debian 12: 12.7 released](https://www.debian.org/News/2024/20240831)
@@ -54,14 +55,14 @@ parent: ISO
 先產生一個檔案「iso-download.txt」，內容如下
 
 ```
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-xfce.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-mate.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-cinnamon.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-kde.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-gnome.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-lxqt.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-lxde.iso
-https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.9.0-amd64-standard.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-xfce.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-mate.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-cinnamon.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-kde.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-gnome.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-lxqt.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-lxde.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.10.0-amd64-standard.iso
 ```
 
 
@@ -106,12 +107,12 @@ sha256sum -c SHA256SUMS
 會看到類似如下的內容
 
 ```
-debian-live-12.9.0-amd64-cinnamon.iso: OK
-debian-live-12.9.0-amd64-gnome.iso: OK
-debian-live-12.9.0-amd64-kde.iso: OK
-debian-live-12.9.0-amd64-lxde.iso: OK
-debian-live-12.9.0-amd64-lxqt.iso: OK
-debian-live-12.9.0-amd64-mate.iso: OK
-debian-live-12.9.0-amd64-standard.iso: OK
-debian-live-12.9.0-amd64-xfce.iso: OK
+debian-live-12.10.0-amd64-cinnamon.iso: OK
+debian-live-12.10.0-amd64-gnome.iso: OK
+debian-live-12.10.0-amd64-kde.iso: OK
+debian-live-12.10.0-amd64-lxde.iso: OK
+debian-live-12.10.0-amd64-lxqt.iso: OK
+debian-live-12.10.0-amd64-mate.iso: OK
+debian-live-12.10.0-amd64-standard.iso: OK
+debian-live-12.10.0-amd64-xfce.iso: OK
 ```
