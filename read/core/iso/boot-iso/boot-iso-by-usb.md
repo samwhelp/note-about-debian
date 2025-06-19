@@ -29,7 +29,7 @@ grand_parent: ISO
 舉例執行下面指令
 
 ``` sh
-wget -c https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
+wget -c https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
 ```
 
 就會下載一個檔案「debian-live-12.11.0-amd64-xfce.iso」。

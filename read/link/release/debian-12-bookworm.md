@@ -27,7 +27,7 @@ grand_parent: 連結
 * Debian / [Live install images](https://www.debian.org/CD/live/)
 * [https://cdimage.debian.org/debian-cd/](https://cdimage.debian.org/debian-cd/)
 * [https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
-* [https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/)
+* [https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/)
 
 
 ```
@@ -42,12 +42,12 @@ https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-1
 ```
 
 ```
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-mate.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-cinnamon.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-kde.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-gnome.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxqt.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxde.iso
-https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-standard.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-mate.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-cinnamon.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-kde.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-gnome.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxqt.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxde.iso
+https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-standard.iso
 ```

@@ -29,7 +29,7 @@ grand_parent: ISO
 
 ``` sh
 sudo curl -fLo /opt/iso/debian/12/debian-live-12.11.0-amd64-xfce.iso --create-dirs \
-	https://cdimage.debian.org/debian-cd/12.10.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
+	https://cdimage.debian.org/debian-cd/12.11.0-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
 ```
 
 
