@@ -13,6 +13,7 @@ parent: ISO
 
 ## Debian 12
 
+* Debian / News / [Updated Debian 12: 12.11 released](https://www.debian.org/News/2025/20250517)
 * Debian / News / [Updated Debian 12: 12.10 released](https://www.debian.org/News/2025/20250315)
 * Debian / News / [Updated Debian 12: 12.9 released](https://www.debian.org/News/2025/20250111)
 * Debian / News / [Updated Debian 12: 12.8 released](https://www.debian.org/News/2024/20241109)
