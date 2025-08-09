@@ -1,0 +1,119 @@
+---
+title: Download ISO
+nav_order: 1000
+has_children: false
+parent: ISO
+---
+
+
+# Download ISO
+
+
+
+
+## Debian 12
+
+* Debian / News / [Updated Debian 12: 12.11 released](https://www.debian.org/News/2025/20250517)
+* Debian / News / [Updated Debian 12: 12.10 released](https://www.debian.org/News/2025/20250315)
+* Debian / News / [Updated Debian 12: 12.9 released](https://www.debian.org/News/2025/20250111)
+* Debian / News / [Updated Debian 12: 12.8 released](https://www.debian.org/News/2024/20241109)
+* Debian / News / [Updated Debian 12: 12.7 released](https://www.debian.org/News/2024/20240831)
+* Debian / News / [Updated Debian 12: 12.6 released](https://www.debian.org/News/2024/20240629)
+* Debian / News / [Updated Debian 12: 12.5 released](https://www.debian.org/News/2024/20240210)
+* Debian / News / [Updated Debian 12: 12.4 released](https://www.debian.org/News/2023/20231210)
+* Debian / News / [Updated Debian 12: 12.2 released](https://www.debian.org/News/2023/20231007)
+* Debian / News / [Updated Debian 12: 12.1 released](https://www.debian.org/News/2023/20230722)
+* Debian / News / [Debian 12 "bookworm" released](https://www.debian.org/News/2023/20230610)
+* Debian 12 / [Release Notes](https://www.debian.org/releases/bookworm/releasenotes)
+* Debian / [Live install images](https://www.debian.org/CD/live/)
+* [https://cdimage.debian.org/debian-cd/](https://cdimage.debian.org/debian-cd/)
+* [https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)
+
+
+
+
+## 下載腳本
+
+* [下載腳本](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-12-iso/iso-download.sh)
+
+
+
+
+## 下載點
+
+> 可以到「Debian / [Live install images](https://www.debian.org/CD/live/)」找到下載點。
+
+> 例如可以找到「[https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/)」。
+
+
+
+
+## 下載方式
+
+
+### iso-download.txt
+
+先產生一個檔案「iso-download.txt」，內容如下
+
+```
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-xfce.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-mate.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-cinnamon.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-kde.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-gnome.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxqt.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-lxde.iso
+https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.11.0-amd64-standard.iso
+```
+
+
+### iso-download.sh
+
+接著執行下面的指令，就會下載剛剛「iso-download.txt」裡面所列的檔案
+
+``` sh
+wget -c -i iso-download.txt
+```
+
+> 關於「-c」指的是續傳
+
+> 關於「-i iso-download.txt」，指的是下載「iso-download.txt」裡面所列的檔案
+
+
+
+
+## Boot ISO
+
+> 簡單「[驗證](#驗證)」過「下載完成的ISO檔案」，接下來可以選擇不同的「[Boot ISO](https://samwhelp.github.io/note-about-debian/read/core/iso/boot-iso.html)」方式。
+
+
+
+
+
+## 驗證
+
+
+### sha256sum
+
+* [man sha256sum](https://manpages.debian.org/bookworm/coreutils/sha256sum.1.en.html)
+
+執行
+
+``` sh
+wget -c https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/SHA256SUMS
+
+sha256sum -c SHA256SUMS
+```
+
+會看到類似如下的內容
+
+```
+debian-live-12.11.0-amd64-cinnamon.iso: OK
+debian-live-12.11.0-amd64-gnome.iso: OK
+debian-live-12.11.0-amd64-kde.iso: OK
+debian-live-12.11.0-amd64-lxde.iso: OK
+debian-live-12.11.0-amd64-lxqt.iso: OK
+debian-live-12.11.0-amd64-mate.iso: OK
+debian-live-12.11.0-amd64-standard.iso: OK
+debian-live-12.11.0-amd64-xfce.iso: OK
+```
