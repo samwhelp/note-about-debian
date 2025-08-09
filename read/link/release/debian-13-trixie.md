@@ -24,3 +24,10 @@ grand_parent: 連結
 
 * Search: [deb822](https://www.google.com/search?q=deb822)
 * [man 5 deb822](https://manpages.debian.org/stable/dpkg-dev/deb822.5.en.html)
+
+
+
+
+## News
+
+* [Debian 13 "trixie" released](https://www.debian.org/News/2025/20250809)

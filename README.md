@@ -12,7 +12,7 @@
 
 ## 前提
 
-> 目前此筆記，是基於「[Debian 12 Bookworm](https://samwhelp.github.io/note-about-debian/read/link/release/debian-12-bookworm.html)」撰寫的。
+> 目前此筆記，是基於「[Debian 13 Trixie](https://samwhelp.github.io/note-about-debian/read/link/release/debian-13-trixie.html)」撰寫的。
 
 
 
