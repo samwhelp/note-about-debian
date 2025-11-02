@@ -29,6 +29,18 @@ has_children: true
 
 
 
+## Source
+
+| Debian Source |
+| ------------- |
+| [Dpkg Developers](https://salsa.debian.org/dpkg-team) |
+| [APT Developers](https://salsa.debian.org/apt-team) |
+| [Debian Installer](https://salsa.debian.org/installer-team) |
+| [Debian Live Team](https://salsa.debian.org/live-team) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
