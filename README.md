@@ -19,15 +19,73 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
+* [Debian Respin](#debian-respin)
 * [ISO](#iso)
 * [打包範例](#打包範例)
-* [Debian Respin](#debian-respin)
-* [微調腳本](#微調腳本)
 * [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [Debian Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Debian Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
+| [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
+| [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
+| [Debian Mate 探索筆記](https://samwhelp.github.io/note-about-debian-mate/) | [GitHub](https://github.com/samwhelp/note-about-debian-mate) |
+| [Debian Budgie 探索筆記](https://samwhelp.github.io/note-about-debian-budgie/) | [GitHub](https://github.com/samwhelp/note-about-debian-budgie) |
+| [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
+| [Debian Lxde 探索筆記](https://samwhelp.github.io/note-about-debian-lxde/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxde) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Cosmic 探索筆記](https://samwhelp.github.io/note-about-debian-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-debian-cosmic) |
+| [Debian Hyprland 探索筆記](https://samwhelp.github.io/note-about-debian-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-debian-hyprland) |
+| [Debian Sway 探索筆記](https://samwhelp.github.io/note-about-debian-sway/) | [GitHub](https://github.com/samwhelp/note-about-debian-sway) |
+| [Debian Labwc 探索筆記](https://samwhelp.github.io/note-about-debian-labwc/) | [GitHub](https://github.com/samwhelp/note-about-debian-labwc) |
+| [Debian Wayfire 探索筆記](https://samwhelp.github.io/note-about-debian-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-debian-wayfire) |
+| [Debian River 探索筆記](https://samwhelp.github.io/note-about-debian-river/) | [GitHub](https://github.com/samwhelp/note-about-debian-river) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
+| [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
+| [Debian Jwm 探索筆記](https://samwhelp.github.io/note-about-debian-jwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-jwm) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Bspwm 探索筆記](https://samwhelp.github.io/note-about-debian-bspwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-bspwm) |
+| [Debian I3wm 探索筆記](https://samwhelp.github.io/note-about-debian-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-debian-i3wm) |
+| [Debian Herbstluftwm 探索筆記](https://samwhelp.github.io/note-about-debian-herbstluftwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-herbstluftwm) |
+| [Debian Cwm 探索筆記](https://samwhelp.github.io/note-about-debian-cwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-cwm) |
+| [Debian Spectrwm 探索筆記](https://samwhelp.github.io/note-about-debian-spectrwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-spectrwm) |
 
 
 
@@ -67,45 +125,6 @@
 | ---- | ------ |
 | [deb-recipe](https://samwhelp.github.io/deb-recipe/) | [GitHub](https://github.com/samwhelp/deb-recipe) |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
-
-
-
-
-## Debian Respin
-
-| Link | GitHub |
-| ---- | ------ |
-| [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
-| [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
-| [Debian Lxde 探索筆記](https://samwhelp.github.io/note-about-debian-lxde/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxde) |
-| [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
-| [Debian Mate 探索筆記](https://samwhelp.github.io/note-about-debian-mate/) | [GitHub](https://github.com/samwhelp/note-about-debian-mate) |
-| [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
-| [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
-| [Debian Budgie 探索筆記](https://samwhelp.github.io/note-about-debian-budgie/) | [GitHub](https://github.com/samwhelp/note-about-debian-budgie) |
-
-
-| Link | GitHub |
-| ---- | ------ |
-| [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
-| [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
-
-
-| Link | GitHub |
-| ---- | ------ |
-| [Debian Bspwm 探索筆記](https://samwhelp.github.io/note-about-debian-bspwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-bspwm) |
-| [Debian I3wm 探索筆記](https://samwhelp.github.io/note-about-debian-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-debian-i3wm) |
-| [Debian Herbstluftwm 探索筆記](https://samwhelp.github.io/note-about-debian-herbstluftwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-herbstluftwm) |
-
-
-
-
-## 微調腳本
-
-| 微調腳本 |
-| ------- |
-| [Debian Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main) |
-| [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
