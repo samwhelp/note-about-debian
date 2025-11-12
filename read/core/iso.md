@@ -19,3 +19,32 @@ has_children: true
 
 
 
+
+## Live Account
+
+> Source Code:
+
+* Debian / live-config / [0030-live-debconfig_passwd](https://salsa.debian.org/live-team/live-config/-/blob/master/components/0030-live-debconfig_passwd)
+* Debian / live-config / [0030-user-setup](https://salsa.debian.org/live-team/live-config/-/blob/master/components/0030-user-setup)
+
+
+> 使用「Debian Live ISO」開機後，自動登入的帳號。
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `user` |
+| Password | `live` |
+
+
+> 執行下面指令，更改目前登入帳號的密碼。
+
+``` sh
+sudo passwd $(whoami)
+```
+
+
+> 執行下面指令，移除目前登入帳號的密碼。
+
+``` sh
+sudo passwd -d $(whoami)
+```
