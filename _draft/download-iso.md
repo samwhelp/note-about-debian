@@ -34,7 +34,7 @@ parent: ISO
 
 ## 下載腳本
 
-* [下載腳本](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-12-iso/iso-download.sh)
+* [下載腳本](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-debian-12-iso/iso-download.sh)
 
 
 

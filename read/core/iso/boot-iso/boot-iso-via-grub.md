@@ -1,5 +1,5 @@
 ---
-title: Boot ISO By GRUB
+title: Boot ISO Via GRUB
 nav_order: 1040
 has_children: false
 parent: Boot ISO
@@ -7,14 +7,14 @@ grand_parent: ISO
 ---
 
 
-# Boot ISO By GRUB
+# Boot ISO Via GRUB
 
 
 
 
 ## 範例專案
 
-* boot-iso-by-grub / [demo-boot-debian-13-iso](https://github.com/samwhelp/debian-adjustment/tree/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-13-iso)
+* boot-iso-via-grub / [demo-boot-debian-13-iso](https://github.com/samwhelp/debian-adjustment/tree/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-debian-13-iso)
 
 
 
@@ -41,8 +41,8 @@ sudo curl -fLo /opt/iso/debian/13/debian-live-13.1.0-amd64-xfce.iso --create-dir
 
 | GRUB Boot ISO 範例 | 設定檔路徑 | 是否需要執行 update-grub |
 | --- | --- | --- |
-| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-13-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
-| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-by-grub/demo-boot-debian-13-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
+| demo_40_custom | [/etc/grub.d/40_custom](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-debian-13-iso/asset/overlay/etc/grub.d/40_custom) | 修改後，需要執行 `sudo update-grub` |
+| demo_41_custom | [/boot/grub/custom.cfg](https://github.com/samwhelp/debian-adjustment/blob/main/core/iso/boot-iso/boot-iso-via-grub/demo-boot-debian-13-iso/asset/overlay/boot/grub/custom.cfg) | 修改後，**不需要**執行 `sudo update-grub` |
 
 > 關於「`sudo update-grub`」指的是「`sudo grub-mkconfig -o /boot/grub/grub.cfg`」
 
