@@ -22,6 +22,17 @@ has_children: true
 
 
 
+## Debusine
+
+| Debusine |
+| -------- |
+| [Debusine](https://debusine.debian.net/) |
+| Debusine / [Documentation](https://freexian-team.pages.debian.net/debusine/index.html)
+| Debian Wiki / [DebusineDebianNet](https://wiki.debian.org/DebusineDebianNet) |
+
+
+
+
 ## Docs
 
 * [The Debian Administrator's Handbook](https://debian-handbook.info/) ([英文版](https://debian-handbook.info/browse/stable/)) ([中文版](https://debian-handbook.info/browse/zh-TW/stable/index.html))
