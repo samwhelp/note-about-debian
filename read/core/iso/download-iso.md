@@ -13,7 +13,7 @@ parent: ISO
 
 ## Debian 13
 
-* Debian / News / [Updated Debian 13: 13.2 released](https://www.debian.org/News/2026/20260110)
+* Debian / News / [Updated Debian 13: 13.3 released](https://www.debian.org/News/2026/20260110)
 * Debian / News / [Updated Debian 13: 13.2 released](https://www.debian.org/News/2025/20251115)
 * Debian / News / [Updated Debian 13: 13.1 released](https://www.debian.org/News/2025/20250906)
 * Debian / News / [Debian 13 "trixie" released](https://www.debian.org/News/2025/20250809)
