@@ -210,6 +210,7 @@
 | [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
 | [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Voidlinux 探索筆記](https://samwhelp.github.io/note-about-voidlinux/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux) |
 | [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
